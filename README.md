@@ -31,5 +31,6 @@ The first version was my first Lua test and I won't lie to you, the code is real
 
 ## Important Note
 
-This repo has been forked and is being used by the 11th Online Community. Leavig it public, so that others may want to take what I have added.
-I will look at contributing to main repo that it was forked on. All code remains the rights on the source contributors.
+This repo has been forked and is being used by the 11th Online Community. Leaving it public, so that others may want to take what I have added.
+
+I will look at contributing to main repo that it was forked on. **All code** remains the rights on the source contributors.
