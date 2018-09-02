@@ -28,3 +28,8 @@ The first version was my first Lua test and I won't lie to you, the code is real
 3. Create a new branch named like feature/my-new-feature.
 4. Create a pull request of your feature/my-new-feature to the testing branch.
 5. [You also can take a look here - Step by step guide](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
+
+## Important Note
+
+This repo has been forked and is being used by the 11th Online Community. Leavig it public, so that others may want to take what I have added.
+I will look at contributing to main repo that it was forked on. All code remains the rights on the source contributors.
